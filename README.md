@@ -1,3 +1,3 @@
-# Demo
+# Learning git
 
-Some description!
+Learning how to use git!
